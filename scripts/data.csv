@@ -1,0 +1,109 @@
+Setor,Subsetor,Marca,Produto,SKU
+Alimentos,Carne,Marca A,Carne Marca A Estilo 1,1111
+Alimentos,Carne,Marca A,Carne Marca A Estilo 2,1112
+Alimentos,Carne,Marca A,Carne Marca A Estilo 3,1113
+Alimentos,Carne,Marca B,Carne Marca B Estilo 1,1121
+Alimentos,Carne,Marca B,Carne Marca B Estilo 2,1122
+Alimentos,Carne,Marca B,Carne Marca B Estilo 3,1123
+Alimentos,Carne,Marca C,Carne Marca C Estilo 1,1131
+Alimentos,Carne,Marca C,Carne Marca C Estilo 2,1132
+Alimentos,Carne,Marca C,Carne Marca C Estilo 3,1133
+Alimentos,Fruta,Marca A,Fruta Marca A Estilo 1,1211
+Alimentos,Fruta,Marca A,Fruta Marca A Estilo 2,1212
+Alimentos,Fruta,Marca A,Fruta Marca A Estilo 3,1213
+Alimentos,Fruta,Marca B,Fruta Marca B Estilo 1,1221
+Alimentos,Fruta,Marca B,Fruta Marca B Estilo 2,1222
+Alimentos,Fruta,Marca B,Fruta Marca B Estilo 3,1223
+Alimentos,Fruta,Marca C,Fruta Marca C Estilo 1,1231
+Alimentos,Fruta,Marca C,Fruta Marca C Estilo 2,1232
+Alimentos,Fruta,Marca C,Fruta Marca C Estilo 3,1233
+Alimentos,Verdura,Marca A,Verdura Marca A Estilo 1,1311
+Alimentos,Verdura,Marca A,Verdura Marca A Estilo 2,1312
+Alimentos,Verdura,Marca A,Verdura Marca A Estilo 3,1313
+Alimentos,Verdura,Marca B,Verdura Marca B Estilo 1,1321
+Alimentos,Verdura,Marca B,Verdura Marca B Estilo 2,1322
+Alimentos,Verdura,Marca B,Verdura Marca B Estilo 3,1323
+Alimentos,Verdura,Marca C,Verdura Marca C Estilo 1,1331
+Alimentos,Verdura,Marca C,Verdura Marca C Estilo 2,1332
+Alimentos,Verdura,Marca C,Verdura Marca C Estilo 3,1333
+Roupas,Camiseta,Marca A,Camiseta Marca A Estilo 1,2411
+Roupas,Camiseta,Marca A,Camiseta Marca A Estilo 2,2412
+Roupas,Camiseta,Marca A,Camiseta Marca A Estilo 3,2413
+Roupas,Camiseta,Marca B,Camiseta Marca B Estilo 1,2421
+Roupas,Camiseta,Marca B,Camiseta Marca B Estilo 2,2422
+Roupas,Camiseta,Marca B,Camiseta Marca B Estilo 3,2423
+Roupas,Camiseta,Marca C,Camiseta Marca C Estilo 1,2431
+Roupas,Camiseta,Marca C,Camiseta Marca C Estilo 2,2432
+Roupas,Camiseta,Marca C,Camiseta Marca C Estilo 3,2433
+Roupas,Pantalon,Marca A,Pantalon Marca A Estilo 1,2511
+Roupas,Pantalon,Marca A,Pantalon Marca A Estilo 2,2512
+Roupas,Pantalon,Marca A,Pantalon Marca A Estilo 3,2513
+Roupas,Pantalon,Marca B,Pantalon Marca B Estilo 1,2521
+Roupas,Pantalon,Marca B,Pantalon Marca B Estilo 2,2522
+Roupas,Pantalon,Marca B,Pantalon Marca B Estilo 3,2523
+Roupas,Pantalon,Marca C,Pantalon Marca C Estilo 1,2531
+Roupas,Pantalon,Marca C,Pantalon Marca C Estilo 2,2532
+Roupas,Pantalon,Marca C,Pantalon Marca C Estilo 3,2533
+Roupas,Moletom,Marca A,Moletom Marca A Estilo 1,2611
+Roupas,Moletom,Marca A,Moletom Marca A Estilo 2,2612
+Roupas,Moletom,Marca A,Moletom Marca A Estilo 3,2613
+Roupas,Moletom,Marca B,Moletom Marca B Estilo 1,2621
+Roupas,Moletom,Marca B,Moletom Marca B Estilo 2,2622
+Roupas,Moletom,Marca B,Moletom Marca B Estilo 3,2623
+Roupas,Moletom,Marca C,Moletom Marca C Estilo 1,2631
+Roupas,Moletom,Marca C,Moletom Marca C Estilo 2,2632
+Roupas,Moletom,Marca C,Moletom Marca C Estilo 3,2633
+Bebidas,Sem Alcool,Marca A,Sem Alcool Marca A Estilo 1,3711
+Bebidas,Sem Alcool,Marca A,Sem Alcool Marca A Estilo 2,3712
+Bebidas,Sem Alcool,Marca A,Sem Alcool Marca A Estilo 3,3713
+Bebidas,Sem Alcool,Marca B,Sem Alcool Marca B Estilo 1,3721
+Bebidas,Sem Alcool,Marca B,Sem Alcool Marca B Estilo 2,3722
+Bebidas,Sem Alcool,Marca B,Sem Alcool Marca B Estilo 3,3723
+Bebidas,Sem Alcool,Marca C,Sem Alcool Marca C Estilo 1,3731
+Bebidas,Sem Alcool,Marca C,Sem Alcool Marca C Estilo 2,3732
+Bebidas,Sem Alcool,Marca C,Sem Alcool Marca C Estilo 3,3733
+Bebidas,Cerveja,Marca A,Cerveja Marca A Estilo 1,3811
+Bebidas,Cerveja,Marca A,Cerveja Marca A Estilo 2,3812
+Bebidas,Cerveja,Marca A,Cerveja Marca A Estilo 3,3813
+Bebidas,Cerveja,Marca B,Cerveja Marca B Estilo 1,3821
+Bebidas,Cerveja,Marca B,Cerveja Marca B Estilo 2,3822
+Bebidas,Cerveja,Marca B,Cerveja Marca B Estilo 3,3823
+Bebidas,Cerveja,Marca C,Cerveja Marca C Estilo 1,3831
+Bebidas,Cerveja,Marca C,Cerveja Marca C Estilo 2,3832
+Bebidas,Cerveja,Marca C,Cerveja Marca C Estilo 3,3833
+Bebidas,Vinho,Marca A,Vinho Marca A Estilo 1,3911
+Bebidas,Vinho,Marca A,Vinho Marca A Estilo 2,3912
+Bebidas,Vinho,Marca A,Vinho Marca A Estilo 3,3913
+Bebidas,Vinho,Marca B,Vinho Marca B Estilo 1,3921
+Bebidas,Vinho,Marca B,Vinho Marca B Estilo 2,3922
+Bebidas,Vinho,Marca B,Vinho Marca B Estilo 3,3923
+Bebidas,Vinho,Marca C,Vinho Marca C Estilo 1,3931
+Bebidas,Vinho,Marca C,Vinho Marca C Estilo 2,3932
+Bebidas,Vinho,Marca C,Vinho Marca C Estilo 3,3933
+Limpeza,Cozinha,Marca A,Cozinha Marca A Estilo 1,41011
+Limpeza,Cozinha,Marca A,Cozinha Marca A Estilo 2,41012
+Limpeza,Cozinha,Marca A,Cozinha Marca A Estilo 3,41013
+Limpeza,Cozinha,Marca B,Cozinha Marca B Estilo 1,41021
+Limpeza,Cozinha,Marca B,Cozinha Marca B Estilo 2,41022
+Limpeza,Cozinha,Marca B,Cozinha Marca B Estilo 3,41023
+Limpeza,Cozinha,Marca C,Cozinha Marca C Estilo 1,41031
+Limpeza,Cozinha,Marca C,Cozinha Marca C Estilo 2,41032
+Limpeza,Cozinha,Marca C,Cozinha Marca C Estilo 3,41033
+Limpeza,Banho,Marca A,Banho Marca A Estilo 1,41111
+Limpeza,Banho,Marca A,Banho Marca A Estilo 2,41112
+Limpeza,Banho,Marca A,Banho Marca A Estilo 3,41113
+Limpeza,Banho,Marca B,Banho Marca B Estilo 1,41121
+Limpeza,Banho,Marca B,Banho Marca B Estilo 2,41122
+Limpeza,Banho,Marca B,Banho Marca B Estilo 3,41123
+Limpeza,Banho,Marca C,Banho Marca C Estilo 1,41131
+Limpeza,Banho,Marca C,Banho Marca C Estilo 2,41132
+Limpeza,Banho,Marca C,Banho Marca C Estilo 3,41133
+Limpeza,Pisos,Marca A,Pisos Marca A Estilo 1,41211
+Limpeza,Pisos,Marca A,Pisos Marca A Estilo 2,41212
+Limpeza,Pisos,Marca A,Pisos Marca A Estilo 3,41213
+Limpeza,Pisos,Marca B,Pisos Marca B Estilo 1,41221
+Limpeza,Pisos,Marca B,Pisos Marca B Estilo 2,41222
+Limpeza,Pisos,Marca B,Pisos Marca B Estilo 3,41223
+Limpeza,Pisos,Marca C,Pisos Marca C Estilo 1,41231
+Limpeza,Pisos,Marca C,Pisos Marca C Estilo 2,41232
+Limpeza,Pisos,Marca C,Pisos Marca C Estilo 3,41233
