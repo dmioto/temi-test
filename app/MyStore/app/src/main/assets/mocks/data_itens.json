@@ -1,0 +1,760 @@
+{
+  "store": [
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca A",
+      "produtos": "Carne Marca A Estilo 1",
+      "sku": 1111
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca A",
+      "produtos": "Carne Marca A Estilo 2",
+      "sku": 1112
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca A",
+      "produtos": "Carne Marca A Estilo 3",
+      "sku": 1113
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca B",
+      "produtos": "Carne Marca B Estilo 1",
+      "sku": 1121
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca B",
+      "produtos": "Carne Marca B Estilo 2",
+      "sku": 1122
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca B",
+      "produtos": "Carne Marca B Estilo 3",
+      "sku": 1123
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca C",
+      "produtos": "Carne Marca C Estilo 1",
+      "sku": 1131
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca C",
+      "produtos": "Carne Marca C Estilo 2",
+      "sku": 1132
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Carne",
+      "marcas": "Marca C",
+      "produtos": "Carne Marca C Estilo 3",
+      "sku": 1133
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca A",
+      "produtos": "Fruta Marca A Estilo 1",
+      "sku": 1211
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca A",
+      "produtos": "Fruta Marca A Estilo 2",
+      "sku": 1212
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca A",
+      "produtos": "Fruta Marca A Estilo 3",
+      "sku": 1213
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca B",
+      "produtos": "Fruta Marca B Estilo 1",
+      "sku": 1221
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca B",
+      "produtos": "Fruta Marca B Estilo 2",
+      "sku": 1222
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca B",
+      "produtos": "Fruta Marca B Estilo 3",
+      "sku": 1223
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca C",
+      "produtos": "Fruta Marca C Estilo 1",
+      "sku": 1231
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca C",
+      "produtos": "Fruta Marca C Estilo 2",
+      "sku": 1232
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Fruta",
+      "marcas": "Marca C",
+      "produtos": "Fruta Marca C Estilo 3",
+      "sku": 1233
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca A",
+      "produtos": "Verdura Marca A Estilo 1",
+      "sku": 1311
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca A",
+      "produtos": "Verdura Marca A Estilo 2",
+      "sku": 1312
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca A",
+      "produtos": "Verdura Marca A Estilo 3",
+      "sku": 1313
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca B",
+      "produtos": "Verdura Marca B Estilo 1",
+      "sku": 1321
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca B",
+      "produtos": "Verdura Marca B Estilo 2",
+      "sku": 1322
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca B",
+      "produtos": "Verdura Marca B Estilo 3",
+      "sku": 1323
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca C",
+      "produtos": "Verdura Marca C Estilo 1",
+      "sku": 1331
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca C",
+      "produtos": "Verdura Marca C Estilo 2",
+      "sku": 1332
+    },
+    {
+      "setores": "Alimentos",
+      "subsetores": "Verdura",
+      "marcas": "Marca C",
+      "produtos": "Verdura Marca C Estilo 3",
+      "sku": 1333
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca A",
+      "produtos": "Camiseta Marca A Estilo 1",
+      "sku": 2411
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca A",
+      "produtos": "Camiseta Marca A Estilo 2",
+      "sku": 2412
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca A",
+      "produtos": "Camiseta Marca A Estilo 3",
+      "sku": 2413
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca B",
+      "produtos": "Camiseta Marca B Estilo 1",
+      "sku": 2421
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca B",
+      "produtos": "Camiseta Marca B Estilo 2",
+      "sku": 2422
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca B",
+      "produtos": "Camiseta Marca B Estilo 3",
+      "sku": 2423
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca C",
+      "produtos": "Camiseta Marca C Estilo 1",
+      "sku": 2431
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca C",
+      "produtos": "Camiseta Marca C Estilo 2",
+      "sku": 2432
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Camiseta",
+      "marcas": "Marca C",
+      "produtos": "Camiseta Marca C Estilo 3",
+      "sku": 2433
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca A",
+      "produtos": "Pantalon Marca A Estilo 1",
+      "sku": 2511
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca A",
+      "produtos": "Pantalon Marca A Estilo 2",
+      "sku": 2512
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca A",
+      "produtos": "Pantalon Marca A Estilo 3",
+      "sku": 2513
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca B",
+      "produtos": "Pantalon Marca B Estilo 1",
+      "sku": 2521
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca B",
+      "produtos": "Pantalon Marca B Estilo 2",
+      "sku": 2522
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca B",
+      "produtos": "Pantalon Marca B Estilo 3",
+      "sku": 2523
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca C",
+      "produtos": "Pantalon Marca C Estilo 1",
+      "sku": 2531
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca C",
+      "produtos": "Pantalon Marca C Estilo 2",
+      "sku": 2532
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Pantalon",
+      "marcas": "Marca C",
+      "produtos": "Pantalon Marca C Estilo 3",
+      "sku": 2533
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca A",
+      "produtos": "Moletom Marca A Estilo 1",
+      "sku": 2611
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca A",
+      "produtos": "Moletom Marca A Estilo 2",
+      "sku": 2612
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca A",
+      "produtos": "Moletom Marca A Estilo 3",
+      "sku": 2613
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca B",
+      "produtos": "Moletom Marca B Estilo 1",
+      "sku": 2621
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca B",
+      "produtos": "Moletom Marca B Estilo 2",
+      "sku": 2622
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca B",
+      "produtos": "Moletom Marca B Estilo 3",
+      "sku": 2623
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca C",
+      "produtos": "Moletom Marca C Estilo 1",
+      "sku": 2631
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca C",
+      "produtos": "Moletom Marca C Estilo 2",
+      "sku": 2632
+    },
+    {
+      "setores": "Roupas",
+      "subsetores": "Moletom",
+      "marcas": "Marca C",
+      "produtos": "Moletom Marca C Estilo 3",
+      "sku": 2633
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca A",
+      "produtos": "Sem Alcool Marca A Estilo 1",
+      "sku": 3711
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca A",
+      "produtos": "Sem Alcool Marca A Estilo 2",
+      "sku": 3712
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca A",
+      "produtos": "Sem Alcool Marca A Estilo 3",
+      "sku": 3713
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca B",
+      "produtos": "Sem Alcool Marca B Estilo 1",
+      "sku": 3721
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca B",
+      "produtos": "Sem Alcool Marca B Estilo 2",
+      "sku": 3722
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca B",
+      "produtos": "Sem Alcool Marca B Estilo 3",
+      "sku": 3723
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca C",
+      "produtos": "Sem Alcool Marca C Estilo 1",
+      "sku": 3731
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca C",
+      "produtos": "Sem Alcool Marca C Estilo 2",
+      "sku": 3732
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Sem Alcool",
+      "marcas": "Marca C",
+      "produtos": "Sem Alcool Marca C Estilo 3",
+      "sku": 3733
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca A",
+      "produtos": "Cerveja Marca A Estilo 1",
+      "sku": 3811
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca A",
+      "produtos": "Cerveja Marca A Estilo 2",
+      "sku": 3812
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca A",
+      "produtos": "Cerveja Marca A Estilo 3",
+      "sku": 3813
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca B",
+      "produtos": "Cerveja Marca B Estilo 1",
+      "sku": 3821
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca B",
+      "produtos": "Cerveja Marca B Estilo 2",
+      "sku": 3822
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca B",
+      "produtos": "Cerveja Marca B Estilo 3",
+      "sku": 3823
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca C",
+      "produtos": "Cerveja Marca C Estilo 1",
+      "sku": 3831
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca C",
+      "produtos": "Cerveja Marca C Estilo 2",
+      "sku": 3832
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Cerveja",
+      "marcas": "Marca C",
+      "produtos": "Cerveja Marca C Estilo 3",
+      "sku": 3833
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca A",
+      "produtos": "Vinho Marca A Estilo 1",
+      "sku": 3911
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca A",
+      "produtos": "Vinho Marca A Estilo 2",
+      "sku": 3912
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca A",
+      "produtos": "Vinho Marca A Estilo 3",
+      "sku": 3913
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca B",
+      "produtos": "Vinho Marca B Estilo 1",
+      "sku": 3921
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca B",
+      "produtos": "Vinho Marca B Estilo 2",
+      "sku": 3922
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca B",
+      "produtos": "Vinho Marca B Estilo 3",
+      "sku": 3923
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca C",
+      "produtos": "Vinho Marca C Estilo 1",
+      "sku": 3931
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca C",
+      "produtos": "Vinho Marca C Estilo 2",
+      "sku": 3932
+    },
+    {
+      "setores": "Bebidas",
+      "subsetores": "Vinho",
+      "marcas": "Marca C",
+      "produtos": "Vinho Marca C Estilo 3",
+      "sku": 3933
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca A",
+      "produtos": "Cozinha Marca A Estilo 1",
+      "sku": 41011
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca A",
+      "produtos": "Cozinha Marca A Estilo 2",
+      "sku": 41012
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca A",
+      "produtos": "Cozinha Marca A Estilo 3",
+      "sku": 41013
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca B",
+      "produtos": "Cozinha Marca B Estilo 1",
+      "sku": 41021
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca B",
+      "produtos": "Cozinha Marca B Estilo 2",
+      "sku": 41022
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca B",
+      "produtos": "Cozinha Marca B Estilo 3",
+      "sku": 41023
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca C",
+      "produtos": "Cozinha Marca C Estilo 1",
+      "sku": 41031
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca C",
+      "produtos": "Cozinha Marca C Estilo 2",
+      "sku": 41032
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Cozinha",
+      "marcas": "Marca C",
+      "produtos": "Cozinha Marca C Estilo 3",
+      "sku": 41033
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca A",
+      "produtos": "Banho Marca A Estilo 1",
+      "sku": 41111
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca A",
+      "produtos": "Banho Marca A Estilo 2",
+      "sku": 41112
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca A",
+      "produtos": "Banho Marca A Estilo 3",
+      "sku": 41113
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca B",
+      "produtos": "Banho Marca B Estilo 1",
+      "sku": 41121
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca B",
+      "produtos": "Banho Marca B Estilo 2",
+      "sku": 41122
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca B",
+      "produtos": "Banho Marca B Estilo 3",
+      "sku": 41123
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca C",
+      "produtos": "Banho Marca C Estilo 1",
+      "sku": 41131
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca C",
+      "produtos": "Banho Marca C Estilo 2",
+      "sku": 41132
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Banho",
+      "marcas": "Marca C",
+      "produtos": "Banho Marca C Estilo 3",
+      "sku": 41133
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca A",
+      "produtos": "Pisos Marca A Estilo 1",
+      "sku": 41211
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca A",
+      "produtos": "Pisos Marca A Estilo 2",
+      "sku": 41212
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca A",
+      "produtos": "Pisos Marca A Estilo 3",
+      "sku": 41213
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca B",
+      "produtos": "Pisos Marca B Estilo 1",
+      "sku": 41221
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca B",
+      "produtos": "Pisos Marca B Estilo 2",
+      "sku": 41222
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca B",
+      "produtos": "Pisos Marca B Estilo 3",
+      "sku": 41223
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca C",
+      "produtos": "Pisos Marca C Estilo 1",
+      "sku": 41231
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca C",
+      "produtos": "Pisos Marca C Estilo 2",
+      "sku": 41232
+    },
+    {
+      "setores": "Limpeza",
+      "subsetores": "Pisos",
+      "marcas": "Marca C",
+      "produtos": "Pisos Marca C Estilo 3",
+      "sku": 41233
+    }
+  ]
+}
